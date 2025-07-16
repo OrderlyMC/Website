@@ -9,7 +9,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "指南", link: "/guide" },
+      { text: "历史", link: "/history" },
+      { text: "机器", link: "/machines" },
+      { text: "建筑", link: "/buildings" },
     ],
 
     sidebar: [
@@ -23,7 +26,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/OrderlyMC/Website" },
     ],
   },
   markdown: {
