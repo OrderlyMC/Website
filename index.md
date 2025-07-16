@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 加入我们
-      link: /join
+      link: /guide/join
     - theme: alt
       text: 关注我们
       link: https://space.bilibili.com/3546937982716220
