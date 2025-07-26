@@ -45,6 +45,20 @@ export default defineConfig({
           { text: "潜影贝农场", link: "/machines/shulker-farming" },
         ],
       },
+      {
+        text: "建筑",
+        collapsed: true,
+        items: [
+
+        ],
+      },
+      {
+        text: "交通",
+        collapsed: true,
+        items: [
+          { text: "离岛线", link: "/railways/ld-line.md" },
+        ],
+      },
     ],
 
     socialLinks: [
