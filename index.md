@@ -11,8 +11,8 @@ hero:
       text: 加入我们
       link: /guide/join
     - theme: alt
-      text: 关注我们
-      link: https://space.bilibili.com/3546937982716220
+      text: 贡献文档
+      link: /contribution
 
 features:
   - title: 🌿纯净的原版体验🌿
