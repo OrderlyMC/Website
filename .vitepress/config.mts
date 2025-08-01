@@ -38,26 +38,27 @@ export default defineConfig({
         text: "机器",
         collapsed: true,
         items: [
+          { text: "百万刷石机", link: "/machines/10m-cobblestone-farming" },
+          { text: "村民繁殖机", link: "/machines/villager-farming" },
+          { text: "村民交易所", link: "/machines/villager-trading-hall" },
+          { text: "经验塔", link: "/machines/enderman-farming" },
+          { text: "女巫塔", link: "/machines/witch-farming" },
+          { text: "史莱姆农场", link: "/machines/slime-farming" },
           { text: "四核刷铁机", link: "/machines/4x-iron-golem-framing" },
-          { text: "猪肉塔", link: "/machines/zombified-piglin-farming.md" },
-          { text: "百万刷石机", link: "/machines/10m-cobblestone-farming.md" },
-          { text: "经验塔", link: "/machines/enderman-farming.md" },
           { text: "潜影贝农场", link: "/machines/shulker-farming" },
+          { text: "猪人塔", link: "/machines/zombified-piglin-farming" },
+          { text: "猪肉塔", link: "/machines/meat-tower" },
         ],
       },
       {
         text: "建筑",
         collapsed: true,
-        items: [
-
-        ],
+        items: [],
       },
       {
         text: "交通",
         collapsed: true,
-        items: [
-          { text: "离岛线", link: "/railways/ld-line.md" },
-        ],
+        items: [{ text: "离岛线", link: "/railways/ld-line.md" }],
       },
     ],
 
@@ -67,10 +68,11 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Released under the <a href="https://github.com/OrderlyMC/Website/blob/main/LICENSE">CC0-1.0 License</a>.',
-      copyright: 'Copyright © 2019-present <a href="https://github.com/OrderlyMC">OrderlyMC</a>'
-    }
-
+      message:
+        'Released under the <a href="https://github.com/OrderlyMC/Website/blob/main/LICENSE">CC0-1.0 License</a>.',
+      copyright:
+        'Copyright © 2019-present <a href="https://github.com/OrderlyMC">OrderlyMC</a>',
+    },
   },
   markdown: {
     config: (md) => {
