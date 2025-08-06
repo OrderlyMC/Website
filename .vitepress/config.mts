@@ -60,8 +60,8 @@ export default defineConfig({
         text: "交通",
         collapsed: true,
         items: [
-          { text: "离岛线", link: "/transportation/ld-line.md" },
           { text: "跨海线", link: "/transportation/kh-line.md" },
+          { text: "离岛线", link: "/transportation/ld-line.md" },
         ],
       },
     ],
@@ -75,7 +75,7 @@ export default defineConfig({
       message:
         'Released under the <a href="https://github.com/OrderlyMC/Website/blob/main/LICENSE">CC0-1.0 License</a>.',
       copyright:
-        'Copyright © 2019-present <a href="https://github.com/OrderlyMC">OrderlyMC</a>',
+        'Copyright © 2023-present <a href="https://github.com/OrderlyMC">OrderlyMC</a>',
     },
   },
   markdown: {
