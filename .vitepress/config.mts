@@ -18,6 +18,7 @@ export default defineConfig({
       { text: "历史", link: "/history" },
       { text: "机器", link: "/machines" },
       { text: "建筑", link: "/buildings" },
+      { text: "交通", link: "/transportation" },
     ],
 
     search: {
@@ -58,7 +59,10 @@ export default defineConfig({
       {
         text: "交通",
         collapsed: true,
-        items: [{ text: "离岛线", link: "/railways/ld-line.md" }],
+        items: [
+          { text: "离岛线", link: "/transportation/ld-line.md" },
+          { text: "跨海线", link: "/transportation/kh-line.md" },
+        ],
       },
     ],
 
