@@ -58,7 +58,11 @@ export default defineConfig({
       {
         text: "建筑",
         collapsed: true,
-        items: [],
+        items: [
+          { text: "千本鸟居", link: "/buildings/toriis" },
+          { text: "京都竹林小径", link: "/buildings/kyoto-bamboo-path" },
+          { text: "换乘大厅", link: "/buildings/transfer-hall" },
+        ],
       },
       {
         text: "交通",
