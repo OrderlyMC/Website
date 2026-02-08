@@ -52,6 +52,7 @@ export default defineConfig({
           { text: "胡萝卜农场", link: "/machines/carrot-farm" },
           { text: "甘蔗机", link: "/machines/cane-farm" },
           { text: "竹子机", link: "/machines/bamboo-farm" },
+          { text: "岩浆怪农场", link: "/machines/magma-cube-farming" },
         ],
       },
       {
