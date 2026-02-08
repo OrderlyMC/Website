@@ -10,3 +10,4 @@
 - [潜影贝农场](/machines/shulker-farming)
 - [猪人塔](/machines/zombified-piglin-farming.md)
 - [猪肉塔](/machines/meat-tower.md)
+- [胡萝卜农场](/machines/carrot-farm.md)
