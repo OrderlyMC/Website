@@ -49,6 +49,9 @@ export default defineConfig({
           { text: "潜影贝农场", link: "/machines/shulker-farming" },
           { text: "猪人塔", link: "/machines/zombified-piglin-farming" },
           { text: "猪肉塔", link: "/machines/meat-tower" },
+          { text: "胡萝卜农场", link: "/machines/carrot-farm" },
+          { text: "甘蔗机", link: "/machines/cane-farm" },
+          { text: "竹子机", link: "/machines/bamboo-farm" },
         ],
       },
       {
