@@ -13,3 +13,4 @@
 - [胡萝卜农场](/machines/carrot-farm)
 - [甘蔗机](/machines/cane-farm)
 - [竹子机](/machines/bamboo-farm)
+- [岩浆怪农场](/machines/magma-cube-farming)
