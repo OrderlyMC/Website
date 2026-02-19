@@ -1,7 +1,7 @@
 # 加入游戏
 
 ::: warning
-在加入游戏前，请确定您已经购买正版 Minecraft
+在加入游戏前，请确定您已经购买正版 Minecraft，并且同意![游玩规则](https://wiki.orderly.top/guide/rules)
 :::
 
 ::: tip
